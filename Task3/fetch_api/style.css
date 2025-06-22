@@ -34,3 +34,12 @@ button:hover {
   padding: 10px;
   border-bottom: 1px solid #ccc;
 }
+.note {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+  padding: 12px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
